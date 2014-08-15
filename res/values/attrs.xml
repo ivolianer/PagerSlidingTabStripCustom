@@ -1,0 +1,10 @@
+<resources>
+
+    <declare-styleable name="PagerSlidingTabStrip">
+    </declare-styleable>
+
+    <declare-styleable name="FontAwesomeIconView">
+        <attr name="icon" format="string"/>
+    </declare-styleable>
+
+</resources>
